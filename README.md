@@ -1,0 +1,2 @@
+# Libre
+ Projeto Open souce, desenvolvimento de App no auxílio de contratação de educadores ou arte-educadores para espaços culturais e museus em território nacional. Com a pandemia muitos educadores estão desempregados, então resolvi desenvolver um app para ajudar na contratação desses profissionais. O app também foi pensado em ajudar na divulgação de vagas de emprego na área citada e notícias do meio cultural e artístico. Ainda em face de desenvolvimento e testes.
